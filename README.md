@@ -817,7 +817,7 @@ This project is licensed under the Apache License 2.0 - see the LICENSE file for
 - [Kaggle Dataset Link](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data)
 
 ### Related Project
-- 📈 [Machine Learning Regression Models](https://www.kaggle.com/code/dandrandandran2093/machine-learning-regression-models)
+- 📈 **Machine Learning Regression Models** - [[Kaggle]](https://www.kaggle.com/code/dandrandandran2093/machine-learning-regression-models) [[GitHub]](https://github.com/sekertutku/Machine-Learning---Regression-Models)
 
 ## Acknowledgments
 
