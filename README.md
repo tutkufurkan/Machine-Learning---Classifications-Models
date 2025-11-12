@@ -816,8 +816,15 @@ This project is licensed under the Apache License 2.0 - see the LICENSE file for
 - [Breast Cancer Wisconsin (Diagnostic) Dataset](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic))
 - [Kaggle Dataset Link](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data)
 
-### Related Project
-- 📈 **Machine Learning Regression Models** - [[Kaggle]](https://www.kaggle.com/code/dandrandandran2093/machine-learning-regression-models) [[GitHub]](https://github.com/sekertutku/Machine-Learning---Regression-Models)
+**My Machine Learning Series:**
+
+- 🎯 **Classification Models** - [[Kaggle]](https://www.kaggle.com/code/dandrandandran2093/machine-learning-classifications-models) [[GitHub]](https://github.com/tutkufurkan/Machine-Learning---Classifications-Models) *(Current)*
+
+- 🚀 **Advanced Topics** - [[Kaggle]](https://www.kaggle.com/code/dandrandandran2093/machine-learning-advanced-topics) [[GitHub]](https://github.com/tutkufurkan/Machine-Learning---Advanced-Topics)
+
+- 🔍 **Clustering Models** - [[Kaggle]](https://www.kaggle.com/code/dandrandandran2093/machine-learning-clustering-models) [[GitHub]](https://github.com/tutkufurkan/Machine-Learning---Clustering-Models)
+
+- 📈 **Regression Models** - [[Kaggle]](https://www.kaggle.com/code/dandrandandran2093/machine-learning-regression-models) [[GitHub]](https://github.com/tutkufurkan/Machine-Learning---Regression-Models)
 
 ## Acknowledgments
 
